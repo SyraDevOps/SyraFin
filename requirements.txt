@@ -1,0 +1,13 @@
+numpy
+pandas
+yfinance
+tqdm
+matplotlib
+seaborn
+qrcode
+reportlab
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+tbats
